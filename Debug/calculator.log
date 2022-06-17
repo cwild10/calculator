@@ -1,2 +1,5 @@
-﻿  Screen.cpp
-  calculator.vcxproj -> C:\Users\nixsa\source\repos\Full Sail\calculator\Debug\calculator.exe
+﻿  Application.cpp
+  Screen.cpp
+C:\Users\nixsa\source\repos\Full Sail\calculator\calculator\Screen.cpp(28,2): error C2365: 'BUTTON_NEG': redefinition; previous definition was 'enumerator'
+C:\Users\nixsa\source\repos\Full Sail\calculator\calculator\Screen.cpp(25): message : see declaration of 'BUTTON_NEG'
+  Generating Code...
