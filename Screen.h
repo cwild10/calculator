@@ -4,6 +4,8 @@
 class Screen : public wxFrame
 {
 	wxDECLARE_EVENT_TABLE();
+	
+	button = ButtonFactory.CreateAddButon();
 
 private:
 	wxButton* one;
